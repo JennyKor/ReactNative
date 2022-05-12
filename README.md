@@ -1,6 +1,6 @@
 # ReactNative
 
-ReactNative exersices I'm somewhat proud of, made during the Mobile Programming module.
+ReactNative exercises I'm somewhat proud of, made during the Mobile Programming module.
 <p>
 <b>calculator</b>: The first very simple calculator <br />
 <b>calculator2</b>: The second calculator, slightly improved <br />
